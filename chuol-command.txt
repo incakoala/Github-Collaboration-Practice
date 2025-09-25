@@ -1,0 +1,27 @@
+# Clone the repository
+git clone https://github.com/incakoala/Github-Collaboration-Practice.git
+cd Github-Collaboration-Practice
+
+# Create and switch to a new branch
+git checkout -b chuol-branch
+
+# Make sure branch is up to date with main
+git pull origin main
+git merge main
+
+# Stage and commit the new file
+git add chuol-command.txt
+git commit -m "Add my degree program, research interests, and chuol-command.txt"
+
+# Push branch to GitHub
+git push origin chuol-branch
+
+# Switch back to main branch
+git checkout main
+git pull origin main
+
+# Merge changes from chuol-branch into main
+git merge chuol-branch
+
+# Push updated main to GitHub
+git push origin main
