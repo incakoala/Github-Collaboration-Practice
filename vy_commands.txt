@@ -1,0 +1,19 @@
+git clone git@github.com:incakoala/Github-Collaboration-Practice.git
+
+git checkout -b vy-branch
+
+git merge origin main
+
+touch vy_commands.txt
+
+vim vy_commands.txt
+
+(add to commands file and add degree info to README)
+
+git status
+
+git add .
+
+git commit -b "add commands and degree"
+
+git push --set-upstream origin vy-branch
