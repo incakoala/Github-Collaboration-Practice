@@ -11,4 +11,22 @@ I have academic backgrounds in both international affairs/social sciences and co
 
 ### Alejandro Rodríguez
 
+
 ### Chuol Ruei Deng
+
+Degree Program:
+Master’s in Development Engineering (focus on AI, Data Science, and Technology for Development)
+
+Research Interests (keywords):
+
+Economic Development
+
+Data Science & Artificial Intelligence
+
+Technology for Social Impact
+
+Development Policy & Economics
+
+Agritech & Innovation Systems
+
+Education Access & Equity
