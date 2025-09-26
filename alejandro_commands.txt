@@ -1,0 +1,18 @@
+
+git clone https://github.com/incakoala/Github-Collaboration-Practice.git
+git checkout -b "branchAlejandro"
+git branch -a
+git fetch origin
+git checkout main
+git pull origin main
+git checkout branchAlejandro
+git merge main
+git branch -a
+
+type nul > alejandro_commands.txt #i use windows jej
+
+git diff .\alejandro_commands.txt 
+git add . #or git add .\README.md .\alejandro_commands.txt
+git commit -m "alejandro commands and interests"
+git status
+git push
