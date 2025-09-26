@@ -1,4 +1,4 @@
-# Clone the repository
+# I Cloned the repository
 git clone https://github.com/incakoala/Github-Collaboration-Practice.git
 cd Github-Collaboration-Practice
 
@@ -25,3 +25,4 @@ git merge chuol-branch
 
 # Push updated main to GitHub
 git push origin main
+
